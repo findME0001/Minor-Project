@@ -1,1 +1,1 @@
-# Minor-Project
+#Change Detection using satellite Image
