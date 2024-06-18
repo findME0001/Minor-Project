@@ -1,1 +1,1 @@
-#Change Detection using satellite Image
+Change Detection using satellite Image
